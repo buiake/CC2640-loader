@@ -10,6 +10,6 @@ Load the flash binary image file to CC2640 (Use HEX2BIN for to convert file.hex 
 Usage:
 loader filename comportnumber [baudarate]
 
-buadrate is optional if not specified 19200baud used
+buadrate is optional default 19200baud 
 comportnumber windows style only.
 
